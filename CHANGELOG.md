@@ -1,3 +1,9 @@
+## 0.8.2  (2017-11-22)
+
+Bugfixes:
+
+   - 修复android5.0(api 21)、5.1(api 22)只能加载100个classesN.dex的问题
+
 ## 0.8.1  (2017-11-16)
 
 Bugfixes:
